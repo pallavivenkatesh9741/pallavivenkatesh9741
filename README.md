@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**pallavivenkatesh9741/pallavivenkatesh9741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Pallavi
 
-Here are some ideas to get you started:
+## 💻 About Me
+I am a **Python Developer** with strong expertise in **Artificial Intelligence and Machine Learning**.  
+I have in-depth knowledge of **Python programming** and enjoy building efficient, scalable, and real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+- **Programming Language:** Python (Advanced)
+- **AI / Machine Learning:** Model development, training, evaluation
+- **Web Framework:** Flask
+- **Core Concepts:** Object-Oriented Programming (OOPs)
+- **Database:** SQL
+- **Web Technologies:** HTML, CSS
+
+---
+
+## 🚀 What I Do
+- Build end-to-end **Machine Learning applications**
+- Develop **Flask-based backend systems**
+- Work with structured data using **SQL**
+- Create clean and responsive web interfaces
+
+---
+
+## 📈 Interests
+- Machine Learning & Artificial Intelligence
+- Healthcare & Data-Driven Applications
+- Backend Development
+- Continuous Learning
+
+---
+
+## 📫 Connect With Me
+- GitHub: *This profile*
+- LinkedIn: *(Add your link here)*
+
+---
+
+⭐ *Always learning, building, and improving.*
+
